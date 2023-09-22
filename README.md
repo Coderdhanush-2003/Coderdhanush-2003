@@ -1,18 +1,15 @@
-<!-- README FILE CODE -->
+🌱 About Me
 
+👋 I'm R Dhanush, a Computer Science Engineering student at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Tamil Nadu.
 
+🚀 As a web developer, open-source contributor, and competitive programmer, I'm dedicated to crafting efficient code and tackling real-world challenges.
 
-<!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h2 align=center>👋 Good to have you here!!</h2>
+🤝 Let's connect and collaborate on exciting projects!
 
+📫 Reach out to me via [LinkedIn]([your LinkedIn profile URL](https://www.linkedin.com/in/rd31/)) or [Gmail](ragoordhanush@gmail.com).
 
-<!--ABOUT ME CODE-->
-🌱 **About myself**<br>
+🔗 Explore my latest coding adventures and contributions below. Happy coding! 🚀
 
-✔️ I am **R Dhanush**, currently pursuing my bachelors from Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology ,Tamil Nadu in *Computer and Science Engineering*. <br>
-🚀 Web Developer | Open Source Contributor | Competitive Programmer<br>
-🌟 Passionate about crafting efficient code and solving real-world challenges.<br>
-📫 Connect with me on<br>
 <!-- SOCAIL MEDIA HANDLES -->
 [![Linkedin Badge](https://img.shields.io/badge/-Dhanush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rd31/)](https://www.linkedin.com/in/rd31/)
 [![Gmail Badge](https://img.shields.io/badge/-ragoordhanush@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ragoordhanush@gmail.com)](mailto:ragoordhanush@gmail.com)
