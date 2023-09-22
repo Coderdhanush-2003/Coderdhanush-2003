@@ -11,7 +11,6 @@
 
 ✔️ I am **R Dhanush**, currently pursuing my bachelors from Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology ,Tamil Nadu in *Computer and Science Engineering*. <br>
 🚀 Web Developer | Open Source Contributor | Competitive Programmer<br>
-
 🌟 Passionate about crafting efficient code and solving real-world challenges.<br>
 📫 Connect with me on<br>
 <!-- SOCAIL MEDIA HANDLES -->
